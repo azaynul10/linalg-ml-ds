@@ -49,6 +49,6 @@ While this repository is primarily intended for personal use and learning purpos
 
 ## License
 
-The contents of this repository are provided under the [MIT License](LICENSE). You are free to use, modify, and distribute the materials for personal and non-commercial purposes.
+The contents of this repository are provided under the MIT License. You are free to use, modify, and distribute the materials for personal and non-commercial purposes.
 
 Let's embark on this exciting journey together and unlock the power of mathematics for machine learning and data science!
