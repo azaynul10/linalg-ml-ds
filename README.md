@@ -4,7 +4,7 @@ Welcome to the GitHub repository for the "Mathematics for Machine Learning and D
 
 ## Overview
 
-As a machine learning engineer or data scientist, a strong grasp of mathematics is essential for understanding the underlying principles behind algorithms and data analysis techniques. This Specialization uses innovative pedagogy and visualizations to help you learn these concepts quickly and intuitively, even if you have a limited background in mathematics.
+As a machine learning engineer or data scientist, a strong grasp of mathematics like algorithms (you can do learn these from Khan Academy's Algorithms course) is essential for understanding the underlying principles behind algorithms and data analysis techniques. This Specialization uses innovative pedagogy and visualizations to help you learn these concepts quickly and intuitively, even if you have a limited background in mathematics.
 
 The recommended prerequisites for this program are:
 
@@ -17,29 +17,28 @@ Throughout the Specialization, you'll use Python to demonstrate the learning obj
 
 This repository contains all the course materials, assignments, and resources for the "Mathematics for Machine Learning and Data Science" Specialization. The contents are organized into the following folders:
 
-1. **Course 1: Linear Algebra for Machine Learning and Data Science**
+1. **Week 1: Systems of linear equations**
    - Lecture notes and slides
    - Programming assignments
-   - Quizzes and practice problems
 
-2. **Course 2: Calculus for Machine Learning and Data Science**
+2. **Week 2: Solving systems of linear equations**
    - Lecture notes and slides
    - Programming assignments
-   - Quizzes and practice problems
+   
 
-3. **Course 3: Statistics and Probability for Machine Learning and Data Science**
+3. **Week 3: Vectors and Linear Transformations**
    - Lecture notes and slides
    - Programming assignments
-   - Quizzes and practice problems
+   
 
-4. **Course 4: Capstone Project**
-   - Project description and guidelines
-   - Sample data and resources
+4. **Week 4: Determinants and Eigenvectors**
+    - Lecture notes and slides
+   - Programming assignments
 
 
 ## Getting Started
 
-To get started with this Specialization, you'll need to have Python installed on your machine. We recommend using the latest version of Python 3 and a popular Integrated Development Environment (IDE) like Jupyter Notebook, PyCharm, or Visual Studio Code.
+To get started with this Specialization, you'll need to have Python installed on your machine. We recommend using the latest version of Python 3 and a popular Integrated Development Environment (IDE) like Jupyter Notebook.
 
 Each course folder contains detailed instructions on how to set up the required environment and complete the assignments. You can also refer to the official DeepLearning.AI course materials for additional guidance and support.
 
